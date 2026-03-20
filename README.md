@@ -47,7 +47,9 @@ Para demostrar que el **68.4%** de retención es un resultado estadísticamente 
 
 ### Visualización del Resultado (Campana de Gauss)
 
+La siguiente gráfica muestra la distribución normal estándar. El éxito del proyecto "Chiapas Puede" (Z=2.05, marcado en verde) cae claramente dentro de la zona de rechazo de la hipótesis nula (Z > 1.96, área roja), lo que valida estadísticamente la superioridad del modelo domiciliario desescolarizado.
 
+![Gráfica de Prueba Z - Proyecto Chiapas Puede](analisis/grafica_prueba_z.png)
 ---
 
 ## 🛠️ Herramientas y Metodología
