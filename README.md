@@ -28,8 +28,6 @@ Se midió la eficiencia terminal de la Célula de Alfabetización y se realizó 
 | **Mujeres** | 11 | 7 | **63.6%** |
 | **Hombres** | 8 | 6 | **75.0%** |
 
-*(Aquí te sugiero insertar la imagen: `![Gráfica de Equidad de Género](ruta/de/tu/imagen.png)`)*
-
 ---
 
 ## 2. 🧮 Prueba de Significancia Estadística (Prueba Z)
