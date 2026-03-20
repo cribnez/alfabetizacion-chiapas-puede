@@ -55,7 +55,6 @@ La siguiente gráfica muestra la distribución normal estándar. El éxito del p
 ## 🛠️ Herramientas y Metodología
 * **Python 3.x:** Script de cálculo para la Prueba Z (ubicado en `/analisis`).
 * **Dataset:** Registro anónimo de seguimiento (ubicado en `/datos`).
-* **Instrumentos:** Guías de observación etnográfica y diarios de campo.
 
 ## ✒️ Cómo citar este repositorio
 Ibáñez Nangüelú, C. R. (2026). *alfabetizacion-chiapas-puede* [Análisis estadístico]. GitHub. https://github.com/cribnez/alfabetizacion-chiapas-puede
