@@ -50,8 +50,10 @@ Para demostrar que el **68.4%** de retención representa una mejora real frente 
 
 > **Conclusión Estadística:** **Z = 2.05**. Dado que el valor calculado (2.05) es mayor que el valor crítico (1.96) y $p < 0.05$, se rechaza la hipótesis nula. **El modelo domiciliario mejora significativamente la retención escolar.**
 
-![Comparativa de Eficiencia](instrumentos/grafica_z.png)
+### Visualización del Resultado (Campana de Gauss)
+La siguiente gráfica muestra la distribución normal estándar. El éxito del proyecto "Chiapas Puede" (Z=2.05, marcado en verde) cae claramente dentro de la zona de rechazo de la hipótesis nula (Z > 1.96, área roja), lo que valida estadísticamente la superioridad del modelo domiciliario desescolarizado.
 
+![Gráfica de Prueba Z - Proyecto Chiapas Puede](analisis/grafica_prueba_z.png)
 ---
 
 ## 3. 💰 Impacto Socioeconómico: Ahorro y "Pobreza de Tiempo"
