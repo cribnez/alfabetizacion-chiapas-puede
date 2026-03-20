@@ -50,7 +50,7 @@ Para demostrar que el **68.4%** de retención representa una mejora real frente 
 
 > **Conclusión Estadística:** **Z = 2.05**. Dado que el valor calculado (2.05) es mayor que el valor crítico (1.96) y $p < 0.05$, se rechaza la hipótesis nula. **El modelo domiciliario mejora significativamente la retención escolar.**
 
-*(Aquí te sugiero insertar la imagen: `![Gráfica de Barras comparando el 45% vs 68.4%](ruta/de/tu/imagen2.png)`)*
+![Comparativa de Eficiencia](instrumentos/grafica_z.png)
 
 ---
 
